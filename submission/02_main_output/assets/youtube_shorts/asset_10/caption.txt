@@ -1,0 +1,10 @@
+HOOK:
+Flubbed your guest's name on camera? Don't re-record. Just type the fix.
+
+CAPTION:
+Setting up the mic again to re-record a 3-second mistake is painful. IncuBrix clones your voice to patch voiceovers and narration directly from the script.
+
+#VoiceCloning #AudioEditing #CreatorTools #IncuBrix #TechShorts
+
+CTA:
+Try voice tools free at www.incubrix.com

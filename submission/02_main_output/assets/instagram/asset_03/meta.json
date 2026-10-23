@@ -1,0 +1,36 @@
+{
+  "asset_id": "asset_03",
+  "platform": "Instagram",
+  "format": "Short video",
+  "content_pillar": "P3_REPURPOSE",
+  "hook": "How 1 raw founder interview becomes 10 published posts before lunch.",
+  "hook_variants": [
+    {
+      "variant": 1,
+      "text": "How 1 raw founder interview becomes 10 published posts before lunch."
+    },
+    {
+      "variant": 2,
+      "text": "Stop recording new content every day. Use the 1-to-10 repurposing engine."
+    }
+  ],
+  "hook_chosen_reason": "Concrete asset multiplier promise (1 to 10) backed by clear execution timeframe.",
+  "caption": "One 45-minute recording session on Monday can feed your entire weekly content calendar: 3 Shorts, 2 Carousels, and 5 LinkedIn thought leadership posts.\n\n#ContentRepurposing #CreatorEconomy #SocialStrategy #Podcasting #IncuBrix",
+  "cta": "Start free at www.incubrix.com \u2014 300 credits loaded instantly",
+  "utm_link": "https://www.incubrix.com/?utm_source=instagram&utm_medium=short_video&utm_campaign=creator_growth_engine_q4&utm_content=asset_03",
+  "final_file_url": "submission/02_main_output/assets/instagram/asset_03/asset_03.mp4",
+  "source_file_url": "submission/02_main_output/assets/instagram/asset_03/asset_03_spec.json",
+  "source_input": "submission/03_engine/sample_inputs/anchor_podcast_episode.md",
+  "tools_used": "IncuBrix Python Content Engine v1.0, Pillow, imageio-ffmpeg",
+  "rights_checked": "Yes",
+  "ai_label_needed": "No",
+  "scheduled_date": "2026-11-04 14:00",
+  "test_published_url": "",
+  "impressions_or_views": "",
+  "engagement_rate": "",
+  "clicks": "",
+  "status": "Ready",
+  "notes": "target_metric=2800_views_3.8pct_engagement; hook_rationale=Concrete asset multiplier promise (1 to 10) backed by clear execution timeframe.",
+  "_disk_final_path": "submission/02_main_output\\assets\\instagram\\asset_03\\asset_03.mp4",
+  "_disk_source_path": "submission/02_main_output\\assets\\instagram\\asset_03\\asset_03_spec.json"
+}

@@ -1,0 +1,43 @@
+# Environments
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# Python Bytecode & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Operating System & IDE Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary Audio Takes & Raw Segments
+submission/05_videos/audio_segments/
+submission/05_videos/*.wav
+submission/05_videos/temp_windows_video.mp4
+submission/05_videos/test_tts.mp3
+submission/05_videos/technical_demo_windows_dell.mp4
+
+# Temporary Engine Run Logs & Test Dbs
+*.log
+failure_run.log
+test_normal.log
+test_repeat.log
+*test_engine_state.db*
+
+# Assessment PDFs & Initial Scratch Scripts (Already preserved in prompt / submission artifacts)
+IncuBrix_2027_Growth_Engineer_Options_Overview.pdf
+IncuBrix_2027_Growth_Engineer_Option_2_Social_Media_and_Content.pdf
+IncuBrix_2027_Growth_Engineer_Option_2_Social_Media_and_Content_Submission_Workbook.xlsx
+fill_workbook.py

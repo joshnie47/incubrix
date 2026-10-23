@@ -1,0 +1,62 @@
+{
+  "engine_name": "IncuBrix Social Growth & Content Engine",
+  "version": "1.0.0",
+  "author": "IncuBrix 2027 Growth Engineer Candidate",
+  "target_market": "US, CA, UK, IE, AU, NZ, SG",
+  "allowed_platforms": [
+    "LinkedIn",
+    "Instagram",
+    "YouTube Shorts",
+    "X",
+    "Threads",
+    "TikTok",
+    "Facebook",
+    "Reddit"
+  ],
+  "allowed_formats": [
+    "Short video",
+    "Carousel",
+    "Graphic",
+    "Text post",
+    "Thread",
+    "Long video"
+  ],
+  "content_pillars": [
+    "P1_WORKFLOW",
+    "P2_HOOKS",
+    "P3_REPURPOSE",
+    "P4_CREATOR_OPS",
+    "P5_FEATURE_PROOF"
+  ],
+  "video_specs": {
+    "max_duration_seconds": 60,
+    "width": 1080,
+    "height": 1920,
+    "aspect_ratio": "9:16",
+    "fps": 30
+  },
+  "carousel_specs": {
+    "width": 1080,
+    "height": 1350,
+    "aspect_ratio": "4:5",
+    "max_slides": 10
+  },
+  "utm_campaign": "creator_growth_engine_q4",
+  "base_url": "https://www.incubrix.com/",
+  "banned_phrases": [
+    "guaranteed viral",
+    "get 100k followers overnight",
+    "secret algorithm hack to cheat",
+    "make millions with zero effort"
+  ],
+  "pricing_facts": {
+    "free_credits": 300,
+    "free_video_minutes_approx": 21,
+    "starter_price_usd": 10,
+    "starter_credits": 1000,
+    "essential_price_usd": 20,
+    "essential_credits": 2000,
+    "growth_price_usd": 50,
+    "growth_credits": 5000
+  }
+}

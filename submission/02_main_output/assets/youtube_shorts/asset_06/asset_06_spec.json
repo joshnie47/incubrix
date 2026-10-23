@@ -1,0 +1,54 @@
+{
+  "format": "Short video (9:16)",
+  "resolution": {
+    "width": 1080,
+    "height": 1920
+  },
+  "fps": 30,
+  "duration_seconds": 30,
+  "brand": "IncuBrix Creator Studio",
+  "color_palette": {
+    "background": "#05070D",
+    "panel": "#0C1226",
+    "primary_blue": "#2B6BFF",
+    "accent_cyan": "#45E8DC",
+    "text_light": "#E8ECF5"
+  },
+  "hook": {
+    "text": "What a $5,000/month podcast production workflow looks like in 2026.",
+    "start_time": 0.0,
+    "end_time": 2.5,
+    "animation": "pop_in_karaoke"
+  },
+  "scenes": [
+    {
+      "time_range": "0-2s",
+      "type": "hook_card",
+      "content": "What a $5,000/month podcast production workflow looks like in 2026."
+    },
+    {
+      "time_range": "2-10s",
+      "type": "problem_breakdown",
+      "content": "Input raw audio/video"
+    },
+    {
+      "time_range": "10-22s",
+      "type": "solution_demo",
+      "content": [
+        "Auto-extract high-intent soundbites",
+        "Distribute with zero manual re-uploads"
+      ]
+    },
+    {
+      "time_range": "22-30s",
+      "type": "cta_card",
+      "content": "300 Free Credits \u00b7 No Card \u00b7 www.incubrix.com"
+    }
+  ],
+  "srt_file": "asset_06.srt",
+  "target_platforms": [
+    "YouTube Shorts",
+    "Instagram Reels",
+    "TikTok"
+  ]
+}

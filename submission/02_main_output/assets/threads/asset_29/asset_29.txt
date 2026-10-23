@@ -1,0 +1,11 @@
+--- THREADS PUBLICATION DRAFT ---
+HOOK: Text-based video editing is the biggest leap in creator tooling since digital audio.
+
+Imagine having to edit text by listening to millisecond audio frequencies.
+That is how video editing has worked for 30 years.
+
+Deleting text to cut video is how software should have worked from day one.
+
+#CreatorTools #VideoTech #IncuBrix #BuildInPublic
+
+CTA: Try text-based video cuts at www.incubrix.com

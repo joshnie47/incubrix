@@ -1,0 +1,22 @@
+HOOK:
+How our team turned a 30-minute founder AMA into 14 days of content.
+
+CAPTION:
+Last Tuesday, our team recorded a 30-minute founder AMA.
+Here is what happened next:
+
+1. Ingested the audio into IncuBrix Creator Studio
+2. Highlighted 4 high-retention stories and deleted tangential rants
+3. Exported 4 vertical video clips with burned-in karaoke captions
+4. Created 2 LinkedIn carousel summaries
+5. Scheduled the posts across LinkedIn and Instagram directly from the dashboard
+
+Total time elapsed: 24 minutes.
+Total cost: $0 (using free tier credits).
+
+Stop working harder than your software.
+
+#CaseStudy #WorkflowDesign #Productivity #IncuBrix #B2BGrowth
+
+CTA:
+Try the workflow on your next upload at www.incubrix.com

@@ -1,0 +1,9 @@
+asset_or_component,type,source_name,source_url,license_type,rights_status,notes
+Inter Font,Typography,Google Fonts,https://fonts.google.com/specimen/Inter,SIL Open Font License 1.1,APPROVED,Commercial and personal use permitted; bundled with graphics engine
+Plus Jakarta Sans Font,Typography,Google Fonts,https://fonts.google.com/specimen/Plus+Jakarta+Sans,SIL Open Font License 1.1,APPROVED,Modern clean sans-serif for carousel headers
+Outfit Font,Typography,Google Fonts,https://fonts.google.com/specimen/Outfit,SIL Open Font License 1.1,APPROVED,Bold geometric display font for video hooks
+Hero Graphic Assets,Vector Visuals,Self-Authored SVG/Canvas,d:/Incubrix-2/submission/02_main_output/assets/,Proprietary / CC0,APPROVED,Programmatically rendered SVG vectors and geometric layouts
+Audio Track / Background Ambience,Audio,IncuBrix Engine No-Music Default,N/A,No Audio / Silent or Pure Spoken Word,APPROVED,Short videos default to clean spoken vocal track with zero third-party music copyright claims
+CC0 Ambient Beat (Optional),Audio,Free Music Archive / CC0,https://freemusicarchive.org/,Creative Commons Zero (CC0),APPROVED,Optional royalty-free lo-fi background bed for creator workflow reels
+Product UI Badges & Logos,Brand Mark,IncuBrix Official Site,https://incubrix.com/assets/incubrix-logo.jpg,Fair Use / Official Company Asset,APPROVED,Official brand mark used for assessment demonstration
+Synthetic Creator Survey Data,Dataset,Self-Generated Python Model,d:/Incubrix-2/test_kit/raw_results.csv,Open Data / Assessment License,APPROVED,Per user directive; 100% synthetic creator persona responses

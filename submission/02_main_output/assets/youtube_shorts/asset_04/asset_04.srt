@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:02,500
+Delete text in the transcript. The video cuts itself.
+
+2
+00:00:02,500 --> 00:00:06,000
+Stop spending 4 hours scrubbing video timelines.
+
+3
+00:00:06,000 --> 00:00:12,000
+Highlight text to cut clip
+
+4
+00:00:12,000 --> 00:00:18,000
+Fix flubbed words with voice repair
+
+5
+00:00:18,000 --> 00:00:24,000
+Export in 9:16 vertical automatically
+
+6
+00:00:24,000 --> 00:00:30,000
+Start free with 300 credits at www.incubrix.com.

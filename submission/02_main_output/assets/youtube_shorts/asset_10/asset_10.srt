@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:02,500
+Flubbed your guest's name on camera? Don't re-record. Just type the fix.
+
+2
+00:00:02,500 --> 00:00:06,000
+Stop spending 4 hours scrubbing video timelines.
+
+3
+00:00:06,000 --> 00:00:12,000
+Type narration to patch audio
+
+4
+00:00:12,000 --> 00:00:18,000
+Zero re-recording required
+
+5
+00:00:18,000 --> 00:00:24,000
+Matches your vocal timbre
+
+6
+00:00:24,000 --> 00:00:30,000
+Start free with 300 credits at www.incubrix.com.

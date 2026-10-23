@@ -1,0 +1,10 @@
+HOOK:
+Delete text in the transcript. The video cuts itself.
+
+CAPTION:
+No Premiere Pro timeline scrubbing. Just highlight sentences you don't want and press Backspace. Text-based editing is how CreatorOps scales.
+
+#VideoEditingTools #IncuBrix #TechForCreators #ShortsVideo #AIVideo
+
+CTA:
+Experience text editing free at www.incubrix.com

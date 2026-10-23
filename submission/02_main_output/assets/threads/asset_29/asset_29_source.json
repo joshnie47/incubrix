@@ -1,0 +1,20 @@
+{
+  "format": "Text post",
+  "platform": "Threads",
+  "pillar": "P1_WORKFLOW",
+  "hook_variants": [
+    "Text-based video editing is the biggest leap in creator tooling since digital audio.",
+    "Why scrubbing video waveforms will feel prehistoric by next year."
+  ],
+  "body_paragraphs": [
+    "Imagine having to edit text by listening to millisecond audio frequencies.\nThat is how video editing has worked for 30 years.",
+    "Deleting text to cut video is how software should have worked from day one.",
+    "#CreatorTools #VideoTech #IncuBrix #BuildInPublic"
+  ],
+  "cta": "Try text-based video cuts at www.incubrix.com",
+  "key_takeaways": [
+    "Text-based video editing evolution",
+    "Delete words to cut frames",
+    "No timeline friction"
+  ]
+}

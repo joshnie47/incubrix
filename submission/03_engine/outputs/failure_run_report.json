@@ -1,0 +1,28 @@
+{
+  "run_type": "Failure and recovery",
+  "status": "RECOVERED_SUCCESS",
+  "timestamp": "2026-10-23 20:12:20",
+  "input_file": "submission/03_engine/sample_inputs/anchor_podcast_episode.md",
+  "input_size_chars": 7967,
+  "input_size_words": 1221,
+  "items_produced": 30,
+  "items_rejected": 0,
+  "duplicates_removed": 0,
+  "runtime_minutes": 0.02,
+  "direct_cost_usd": 0.0,
+  "tokens_estimated": 30384,
+  "scale_projections": {
+    "at_10x": {
+      "input_volume_items": 300,
+      "estimated_runtime_minutes": 0.2,
+      "estimated_cost_usd": 0.45
+    },
+    "at_100x": {
+      "input_volume_items": 3000,
+      "estimated_runtime_minutes": 1.5,
+      "estimated_cost_usd": 4.5
+    }
+  },
+  "log_path": "submission/03_engine/logs/failure_run.log",
+  "error_message": "Simulated api_timeout on chunk 14; successfully recovered via fallback synthesis."
+}

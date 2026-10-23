@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:02,500
+What a $5,000/month podcast production workflow looks like in 2026.
+
+2
+00:00:02,500 --> 00:00:06,000
+Stop spending 4 hours scrubbing video timelines.
+
+3
+00:00:06,000 --> 00:00:12,000
+Input raw audio/video
+
+4
+00:00:12,000 --> 00:00:18,000
+Auto-extract high-intent soundbites
+
+5
+00:00:18,000 --> 00:00:24,000
+Distribute with zero manual re-uploads
+
+6
+00:00:24,000 --> 00:00:30,000
+Start free with 300 credits at www.incubrix.com.
